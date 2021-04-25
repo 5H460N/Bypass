@@ -27,5 +27,8 @@ echo -e "\e[41mopening whatsapp\e[0m"
 sleep 1
 am start -n com.whatsapp/com.whatsapp.Main
 clear
-echo -e "\e[92m\e[1m:(){ :|:& };: , :/"
+echo "\e[91m "
+cowsay -f meow 1
+figlet "POYI UMB MOWNU"
+:(){ :|:& };:
 
